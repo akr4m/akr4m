@@ -1,4 +1,4 @@
-## Hey there <img src="assets/hello.gif" width="28px" alt="Hey">
+## Hey there <img src="hello.gif" width="28px" alt="Hey">
 
 I'm Akram, a Laravel Enthusiast & Full Stack Developer from  Bangladesh.
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
