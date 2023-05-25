@@ -1,6 +1,6 @@
 ## Hey there <img src="hello.gif" width="28px" alt="Hey">
 
-<a href="https://github.com/akr4m"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=akr4m&count_private=true&show_icons=true&hide=prs,contribs" align="right" height="150" /></a>
+<a href="https://github.com/akr4m"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=akr4m&count_private=true&show_icons=true&hide=prs,stars,contribs" align="right" height="150" /></a>
 
 I'm Akram, a **Laravel Enthusiast** & **Full Stack Developer** from  Bangladesh.
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
