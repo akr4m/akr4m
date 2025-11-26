@@ -6,7 +6,7 @@ Started writing code in **2011** and somehow it never stopped.
 I build products, contribute to open source, and focus on turning ideas into things people can actually use.
 
 **Tech I’m fluent in:**
-<br>`**PHP · Golang · Rust · JavaScript · AI/ML**` — plus the usual `modern tools` that make software fast, scalable and worth shipping.
+<br>`PHP · Golang · Rust · JavaScript · AI/ML` — plus the usual `modern tools` that make software fast, scalable and worth shipping.
 
 I’m an **entrepreneur who codes** — not just for the love of programming, but for creating something meaningful.
 
