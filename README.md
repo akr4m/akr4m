@@ -1,7 +1,7 @@
 ## <img src="hello.gif" width="28px" alt="Hey"> Hey
 
 I'm **Akram** — a quiet builder from **Bangladesh**.
-Started writing code in **2013** and somehow it never stopped.
+Started writing code in **2011** and somehow it never stopped.
 
 I build products, contribute to open source, and focus on turning ideas into things people can actually use.
 
